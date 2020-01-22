@@ -11,5 +11,6 @@ A classic problem whenever a company wants to expand outside it’s existing geo
 Leveraging data from Foursquare it is possible based on the company’s preference to recommend cities or regions with similar features for their expansion. Companies with limited resources but with the aim to expand often need a higher level of certainty that this next region (city or country) will be as profitable as their current ones or in the reverse, avoid cities that are similar to their worst performing regions.
 From the topic, it is very clear that the interested groups in this research topic are the MSME’s or Mid cap organizations who want to be able to supply CFL bulbs to multiple regions in the U.S but do not have the resources to compete with the massive multi-nationals.  
 The data will be scraped from https://www.eia.gov/electricity/state/ that contains the electricity costs along with the total electricity generation and consumption. This data will be cross referenced with the Foursquare data to understand the best clusters to target.
- 
+
+### Preview of the data can be found in the Week 4 Data jupyter notebook
 
